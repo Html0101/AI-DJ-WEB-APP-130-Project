@@ -1,0 +1,19 @@
+body{
+    background: url(OIP.jpeg);
+    text-align: center;
+}
+canvas{
+    box-shadow: 10px 5px 5px rgb(97, 229, 255);
+    border: 5px solid rgb(97, 229, 255);
+}
+h1, p, h2{
+    margin: 10px;
+    padding: 5px;
+    color: aliceblue;
+}
+h1{
+    font-size: 68px;
+}
+p{
+    font-size: 18px;
+}
